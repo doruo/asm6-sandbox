@@ -1,3 +1,6 @@
 [submodule "Mesen2"]
 	path = Mesen2
 	url = https://github.com/SourMesen/Mesen2.git
+[submodule "asm6f"]
+	path = asm6f
+	url = https://github.com/freem/asm6f.git
