@@ -1,6 +1,0 @@
-[submodule "retrodisasm"]
-	path = retrodisasm
-	url = https://github.com/retroenv/retrodisasm.git
-[submodule "cc65"]
-	path = cc65
-	url = https://github.com/cc65/cc65.git
