@@ -1,6 +1,6 @@
-# 6502 CPU SANDBOX
+# SNES Sandbox
 
-Personnal sandbox environmment for learning MOS Technology 6502 Assembly.
+Sandbox dev environment for learning 65c816 & 6502 Assembly Language.
 
 ## Tools
 
